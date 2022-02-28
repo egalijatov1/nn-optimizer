@@ -1,5 +1,5 @@
 # Neural Network optimizer implementation
-From scratch implementation of Neural Network optimization on multi-class classification problem. 
+From scratch implementation of Neural Network optimization on multi-class classification problem. The Neural Network consists of only one hidden layer for simplicity.
 
 ### Data 
 For testing purposes, Swiss roll dataset is used. 
